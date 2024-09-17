@@ -1,0 +1,30 @@
+
+
+image{
+
+}
+
+body{
+    background-color: azure;
+
+}
+fieldset{
+margin: auto;padding: auto;
+    background-position: 0cqmax;
+}
+
+
+p{
+ animation: mover 30 infinite;
+ -webkit-animation: alternate;
+    background-color:darkkhaki
+}
+@keyframe mover{
+
+    .box {
+        width: 100px;
+        height: 100px;
+        background-color: blue;
+        position: relative;
+        animation: :-moz-drag-over
+}
